@@ -4,14 +4,6 @@
 
 ---
 
-<p align="center">
-    <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo" width="100" height="50">
-  <p align="center">
-  </p>
-</p>
-
----
-
 **Note:** Please check [DataStructures and Algorithms](https://github.com/Reshavji) for DSA related questions or problems.
 
 ### Table of Contents
